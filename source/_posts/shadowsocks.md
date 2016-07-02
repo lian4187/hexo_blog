@@ -8,7 +8,7 @@ categories:
 ---
 
 # shadowsocks 原理
-如果你还对 shadowsocks 这么牛逼的东西不了解，请移步：[http://vc2tea.com/whats-shadowsocks/](http://vc2tea.com/whats-shadowsocks/)
+如果你还对 shadowsocks 神器不了解，请移步：[http://vc2tea.com/whats-shadowsocks/](http://vc2tea.com/whats-shadowsocks/)
 
 # shadowsocks 安装
 

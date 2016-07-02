@@ -202,6 +202,8 @@ nnoremap <silent> <leader>gg :SignifyToggle<CR>
 
 " UndoTree
 nnoremap <Leader>u :UndotreeToggle<CR> 
+
+nmap <leader>jt <Esc>:%!python -m json.tool<CR><Esc>:set filetype=json<CR>
 ```
 
 
